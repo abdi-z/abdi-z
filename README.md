@@ -1,5 +1,8 @@
-Hi 👋 My name is Abdul Rehman Aziz
-==================================Full Stack Dev--------------* 🌍  I'm based in Lahore* ✉️  You can contact me at [abdulrehmanx911@gmail.com](mailto:abdulrehmanx911@gmail.com)* 🧠  I'm learning MERN
+# Hi 👋 My name is Abdul Rehman Aziz
+Full Stack Dev--------------* 
+🌍  I'm based in Lahore* 
+✉️  You can contact me at [abdulrehmanx911@gmail.com](mailto:abdulrehmanx911@gmail.com)* 
+🧠  I'm learning MERN
 
 ### Skills
 
