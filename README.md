@@ -1,8 +1,10 @@
-# Hi 👋 My name is Abdul Rehman Aziz
-## Student / Full Stack Dev <br/>
-🌍  [My leetcode] (https://leetcode.com/fa19-bcs-016/)<br/>
-✉️  You can contact me at [abdulrehmanx911@gmail.com](mailto:abdulrehmanx911@gmail.com) <br/>
-🧠  I'm learning MERN <br/>
+# Ayo 👋 I am Abdul Rehman Aziz
+### I like weekends and weeknd 
+## Student / Web Dev <br/>
+⌨️  My leetcode [Abdul Rehman Aziz](https://leetcode.com/fa19-bcs-016/)<br/>
+♟️  Chess Profile [yesTisAbdi](https://www.chess.com/member/yesstisabdi)<br/>
+🤝  Add me on [LinkedIn](mailto:abdulrehmanx911@gmail.com) <br/> 
+🧠  Always learning different techs <br/>
 
 ### Skills
 
