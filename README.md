@@ -24,5 +24,5 @@
 
 
 ### Got any opportunity for me?
-Reach me out at [abdulrehmanx911@gmail.com](mailto:abdulrehmanx911@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+Reach me out at [abdulrehmanx911@gmail.com](mailto:abdulrehmanx911@gmail.com?subject=Got%20an%20opportunity%20for%20you)
 
