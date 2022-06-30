@@ -1,8 +1,8 @@
 # <p align="center">👋 I am Abdul Rehman Aziz</p>
 ### <p align="center">A 3rd-year student pursuing Bachelors in Computer science studies with a specialization of Software Engineering, from CIIT Lahore. I am a Machine Learning enthusiast, Web developer, and a chess lover.</p>
-⌨️  My leetcode [Abdul Rehman Aziz](https://leetcode.com/fa19-bcs-016/)<br/>
-♟️  Chess Profile [yesTisAbdi](https://www.chess.com/member/yesstisabdi)<br/>
-🤝  Add me on [LinkedIn](https://www.linkedin.com/in/abdul-rehman-aziz) <br/> 
+⌨️  [Leetcode](https://leetcode.com/fa19-bcs-016/)<br/>
+♟️  [Chess](https://www.chess.com/member/yesstisabdi)<br/>
+🤝 [LinkedIn](https://www.linkedin.com/in/abdul-rehman-aziz) <br/> 
 
 ### Skills
 
@@ -23,6 +23,6 @@
 <p align="center"><a href="http://www.github.com/mishaosipovprodigy2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mishaosipovprodigy2&stroke=a855f7&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=a855f7&currStreakLabel=6366f1&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a></p>
 
 
-### Got any opportunity for me?
+### Got an opportunity for me?
 Reach me out at [abdulrehmanx911@gmail.com](mailto:abdulrehmanx911@gmail.com?subject=Got%20an%20opportunity%20for%20you)
 
