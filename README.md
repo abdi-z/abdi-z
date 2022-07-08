@@ -1,4 +1,4 @@
-# <p align="center">👋 I am Abdul Rehman Aziz</p>
+# <p align="center">☮ Salam, I am Abdul Rehman Aziz</p>
 ### <p align="center">A 3rd-year student pursuing Bachelors in Computer science studies with a specialization of Software Engineering, from CIIT Lahore. I am a Machine Learning enthusiast, Web developer, and a chess lover.</p>
 ⌨️  [Leetcode](https://leetcode.com/fa19-bcs-016/)<br/>
 ♟️  [Chess](https://www.chess.com/member/yesstisabdi)<br/>
