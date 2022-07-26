@@ -26,5 +26,5 @@
 ### Got an opportunity for me?
 Reach me out at [abdulrehmanx911@gmail.com](mailto:abdulrehmanx911@gmail.com?subject=Got%20an%20opportunity%20for%20you)
 <p align="center">
-سلام
+ سلام
 </p>
