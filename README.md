@@ -1,5 +1,5 @@
 # <p align="center">☮ Salam, I am عبد الرحمن عزيز</p>
-### <p align="center">Senior year at CIIT majoring in computer science. I am a like web dev, computer vision and chess.</p>
+### <p align="center">Senior year at CIIT majoring in computer science. I like web dev, computer vision and chess.</p>
 ⌨️  [Leetcode](https://leetcode.com/fa19-bcs-016/)<br/>
 ♟️  [Chess](https://www.chess.com/member/yesstisabdi)<br/>
 🤝 [LinkedIn](https://www.linkedin.com/in/abdul-rehman-aziz) <br/> 
