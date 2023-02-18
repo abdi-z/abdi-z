@@ -17,7 +17,7 @@
 
 
 ### Connect with me:
-Reach me out at [abdulrehmanx911@gmail.com](mailto:abdulrehmanx911@gmail.com?subject=Got%20an%20opportunity%20for%20you)
+Reach me out at [yestisabdi@gmail.com](mailto:yestisabdi@gmail.com?subject=Got%20an%20opportunity%20for%20you)
 <p align="center">
  سلام
 </p>
