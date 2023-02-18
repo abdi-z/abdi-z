@@ -1,9 +1,6 @@
 # <p align="center">☮ Salam, I am Abdul Rehman Aziz</p>
 
 ### <p align="center">Senior year at CUI majoring in computer science. I like web dev, computer vision and chess.</p>
-⌨️  [Leetcode](https://leetcode.com/fa19-bcs-016/)<br/>
-♟️  [Chess](https://www.chess.com/member/yesstisabdi)<br/>
-🤝 [LinkedIn](https://www.linkedin.com/in/abdul-rehman-aziz) <br/> 
 <br/> 
 ![](https://komarev.com/ghpvc/?username=abdi-z)
 <!-- <b>My GitHub Stats</b> -->
