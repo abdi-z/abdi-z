@@ -1,6 +1,6 @@
 # <p align="center">☮ Salam, I am Abdul Rehman Aziz</p>
 
-### <p align="center">Senior year at CUI majoring in computer science. I like web dev, computer vision and chess.</p>
+### <p align="center">Comp Sci graduate from CUI. I like web dev, computer vision and chess.</p>
 
 <a align="center"><p align="center">![](https://komarev.com/ghpvc/?username=abdi-z)</p></a>
 <br/> 
