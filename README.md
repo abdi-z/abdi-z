@@ -1,4 +1,4 @@
-# <p align="center">☮ Salam, I am Abdul Rehman Aziz</p>
+# <p align="center">☮ Hey, I am Abdul Rehman Aziz</p>
 
 ### <p align="center">Comp Sci graduate from CUI. I like web dev, computer vision and chess.</p>
 
